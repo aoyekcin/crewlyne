@@ -24,6 +24,41 @@ Small and mid-sized maintenance teams often run their operations on scattered sp
 - Log work done, parts used and on-site photos
 - Generate a PDF service report on the spot and share it with the customer
 
+## Screenshots
+
+> Screens use demo data. The interface supports Turkish and English (TR / EN switch).
+
+**Office dashboard** — overdue jobs, today's assignments and upcoming maintenance at a glance
+
+![Office dashboard](screenshots/dashboard.jpg)
+
+**Work orders** — filter by status, technician, customer and date
+
+![Work orders](screenshots/work-orders.jpg)
+
+**Device card & service history** — every visit for a device in one place
+
+![Device history](screenshots/device-history.jpg)
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+**Technician mobile view** — log work done and parts used, add photos, complete the job
+
+<img src="screenshots/mobile-job-report.jpg" alt="Technician mobile view" width="100%">
+
+</td>
+<td width="60%" valign="top">
+
+**PDF service report** — generated on the spot when the job is completed
+
+<img src="screenshots/pdf-service-report.jpg" alt="PDF service report" width="100%">
+
+</td>
+</tr>
+</table>
+
 ## Tech stack
 
 | Layer | Technology |
